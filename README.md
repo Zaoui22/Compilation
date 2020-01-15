@@ -1,15 +1,22 @@
 # Compilation
 Compilation projet
+
  ***************  Description  ***************
+ 
 Groupe:  06
+
 Le trinome :
+
 	* Zaoui Farid
+	
 	* Korabi Youcef
+	
 	* Djebbour Oussama
 
   		                    *********************************************
 
 * Le dossier contient :
+
 	- Un document texte -----------------------> README.txt
 	- Un fichier .compila ---------------------> FichierSource.txt
 	- Un dossier contenant notre travaille ----> 
